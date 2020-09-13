@@ -15,8 +15,8 @@ https://atcoder.jp/contests/past201912-open
 `$ go get -u github.com/stretchr/testify`
 
 ## Usage
-A問題 double_check
-B問題 plus_minus_management
+- A問題 double_check
+- B問題 plus_minus_management
 
 ## License
 This software is released under the MIT License, see LICENSE.
