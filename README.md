@@ -17,6 +17,8 @@ https://atcoder.jp/contests/past201912-open
 ## Usage
 - A問題 double_check
 - B問題 plus_minus_management
+- C問題 third_largest_num
+- D問題 duplicate_search
 
 ## License
 This software is released under the MIT License, see LICENSE.
