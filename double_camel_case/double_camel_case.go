@@ -19,8 +19,6 @@ const (
 	maxBufSize     = 10e6
 )
 
-
-
 func main() {
 	defer flush()
 	initWordScanner()
